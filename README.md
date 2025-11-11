@@ -34,9 +34,9 @@ This repo makes it easy with a **single source of truth** that includes:
 | ICICI Bank                  | `icic` | <img src="./assets/logos/ICICI Bank.png" height="64" /> | <img src="./assets/logos/ICICI Bank.png" height="64" /> |
 | Punjab National Bank        | `punb` | <img src="./assets/logos/Punjab National Bank.png" height="64" /> | <img src="./assets/logos/Punjab National Bank.png" height="64" /> |
 | Union Bank of India         | `ubin` | <img src="./assets/logos/Union Bank.png" height="64" /> | <img src="./assets/logos/Union Bank.png" height="64" /> |
-| ... more banks coming soon  |        |                                                         |                                                           |
+                                                         
 
-➡️ Full list coming soon with **all RBI-recognized banks**.
+➡️ Full list  with **all RBI-recognized banks**.
 
 ## 🔧 Optimize & Convert Logos
 
