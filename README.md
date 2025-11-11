@@ -29,12 +29,11 @@ This repo makes it easy with a **single source of truth** that includes:
 
 | Bank Name                  | Slug   | Logo                                                    | Symbol                                                    |
 | --------------------------- | ------ | ------------------------------------------------------- | --------------------------------------------------------- |
-| State Bank of India         | `sbin` | <img src="./assets/logos/sbin/logo.svg" height="64" /> | <img src="./assets/logos/sbin/symbol.svg" height="64" /> |
-| HDFC Bank                   | `hdfc` | <img src="./assets/logos/hdfc/logo.svg" height="64" /> | <img src="./assets/logos/hdfc/symbol.svg" height="64" /> |
-| ICICI Bank                  | `icic` | <img src="./assets/logos/icic/logo.svg" height="64" /> | <img src="./assets/logos/icic/symbol.svg" height="64" /> |
-| Axis Bank                   | `utib` | <img src="./assets/logos/utib/logo.svg" height="64" /> | <img src="./assets/logos/utib/symbol.svg" height="64" /> |
-| Punjab National Bank        | `punb` | <img src="./assets/logos/punb/logo.svg" height="64" /> | <img src="./assets/logos/punb/symbol.svg" height="64" /> |
-| Union Bank of India         | `ubin` | <img src="./assets/logos/ubin/logo.svg" height="64" /> | <img src="./assets/logos/ubin/symbol.svg" height="64" /> |
+| State Bank of India         | `sbin` | <img src="./assets/logos/State Bank of India.png" height="64" /> | <img src="./assets/logos/State Bank of India.png" height="64" /> |
+| HDFC Bank                   | `hdfc` | <img src="./assets/logos/HDFC Bank.png" height="64" /> | <img src="./assets/logos/HDFC Bank.png" height="64" /> |
+| ICICI Bank                  | `icic` | <img src="./assets/logos/ICICI Bank.png" height="64" /> | <img src="./assets/logos/ICICI Bank.png" height="64" /> |
+| Punjab National Bank        | `punb` | <img src="./assets/logos/Punjab National Bank.png" height="64" /> | <img src="./assets/logos/Punjab National Bank.png" height="64" /> |
+| Union Bank of India         | `ubin` | <img src="./assets/logos/Union Bank.png" height="64" /> | <img src="./assets/logos/Union Bank.png" height="64" /> |
 | ... more banks coming soon  |        |                                                         |                                                           |
 
 ➡️ Full list coming soon with **all RBI-recognized banks**.
