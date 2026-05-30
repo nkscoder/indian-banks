@@ -4,16 +4,16 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nkscoder-indian-banks"
-version = "1.0.0"
-description = "Open-source Indian bank logos and structured metadata — IFSC prefixes, USSD codes, websites, and RBI bank types."
+version = "1.0.1"
+description = "Indian bank logos and structured metadata by Nitesh Kumar Singh (nkscoder) — IFSC prefixes, USSD codes, websites, and RBI bank types."
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.10"
 authors = [
-    { name = "nkscoder.in", email = "contact@nkscoder.in" },
+    { name = "Nitesh Kumar Singh", email = "contact@nkscoder.in" },
 ]
 maintainers = [
-    { name = "nkscoder.in", email = "contact@nkscoder.in" },
+    { name = "Nitesh Kumar Singh", email = "contact@nkscoder.in" },
 ]
 keywords = [
     "indian-banks",
@@ -25,6 +25,7 @@ keywords = [
     "bank-data",
     "india",
     "nkscoder",
+    "Nitesh Kumar Singh",
     "open-source",
 ]
 classifiers = [

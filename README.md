@@ -1,18 +1,22 @@
 # indian-banks
 
-**Open-source Indian bank logos & structured data** — IFSC prefixes, USSD balance codes, websites, and RBI bank categories for fintech apps, UPI flows, and banking integrations.
+**Author:** [Nitesh Kumar Singh](https://nkscoder.in) · **GitHub:** [@nkscoder](https://github.com/nkscoder)  
+**Repository:** [github.com/nkscoder/indian-banks](https://github.com/nkscoder/indian-banks)
+
+Open-source **Indian bank logos & structured data** — IFSC prefixes, USSD balance codes, websites, and RBI bank categories for fintech apps, UPI flows, and banking integrations. Built by **Nitesh Kumar Singh** (`nkscoder`).
 
 | | |
 |---|---|
-| **Maintainer** | [nkscoder.in](https://nkscoder.in) |
+| **Maintainer** | Nitesh Kumar Singh — [nkscoder.in](https://nkscoder.in) |
 | **Package (PyPI)** | [`nkscoder-indian-banks`](https://pypi.org/project/nkscoder-indian-banks/) |
 | **Python import** | `indian_banks` |
-| **Version** | 1.0.0 |
+| **Version** | 1.0.1 |
 | **License** | MIT |
 | **Python** | 3.10+ |
 
-[![PyPI](https://img.shields.io/pypi/v/nkscoder-indian-banks?label=PyPI)](https://pypi.org/project/nkscoder-indian-banks/)
-[![Python](https://img.shields.io/pypi/pyversions/nkscoder-indian-banks)](https://pypi.org/project/nkscoder-indian-banks/)
+[![PyPI version](https://img.shields.io/pypi/v/nkscoder-indian-banks.svg?logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/nkscoder-indian-banks/1.0.1/)
+[![Python](https://img.shields.io/pypi/pyversions/nkscoder-indian-banks.svg?logo=python&logoColor=white)](https://pypi.org/project/nkscoder-indian-banks/)
+[![Downloads](https://img.shields.io/pypi/dm/nkscoder-indian-banks.svg?label=downloads)](https://pypi.org/project/nkscoder-indian-banks/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -28,7 +32,7 @@ This repo is a **single source of truth** for:
 - Python API to look up banks by slug or IFSC prefix
 - Ready for PyPI install in Django, Flask, FastAPI, or data pipelines
 
-**Keywords:** Indian banks, bank logos India, IFSC bank code, RBI bank list, UPI fintech, balance check USSD, nkscoder.
+**Keywords:** Indian banks, bank logos India, IFSC bank code, RBI bank list, UPI fintech, balance check USSD, Nitesh Kumar Singh, nkscoder.
 
 ---
 
@@ -164,16 +168,20 @@ Bank types reference: [RBI Official List](https://www.rbi.org.in/scripts/banklin
 
 ---
 
-## About nkscoder.in
+## About Nitesh Kumar Singh (nkscoder)
 
-This package is maintained by **[nkscoder.in](https://nkscoder.in)** as open infrastructure for Indian banking data — logos, IFSC prefixes, and metadata for apps and fintech products.
+**Nitesh Kumar Singh** develops open-source data packages and Django tools under **nkscoder**. **indian-banks** (`nkscoder-indian-banks` on PyPI) is a free, MIT-licensed dataset of Indian bank logos, IFSC prefixes, USSD codes, and RBI metadata for fintech apps and developers.
 
-For support or custom integrations, visit [https://nkscoder.in](https://nkscoder.in).
+- **Website:** [nkscoder.in](https://nkscoder.in)
+- **GitHub:** [@nkscoder](https://github.com/nkscoder)
+- **PyPI:** [nkscoder-indian-banks](https://pypi.org/project/nkscoder-indian-banks/)
+
+For support, custom integrations, or fintech consulting, visit [https://nkscoder.in](https://nkscoder.in).
 
 ---
 
 ## License
 
-Copyright © 2026 [nkscoder.in](https://nkscoder.in).
+Copyright © 2026 **Nitesh Kumar Singh** ([nkscoder](https://github.com/nkscoder)).
 
 Released under the [MIT License](LICENSE). Logos remain property of their respective banks; use only for identification and reference in applications.

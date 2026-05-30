@@ -52,3 +52,7 @@ data = bank.to_dict()
 ```
 
 See [README.md](../README.md) for full usage examples.
+
+---
+
+Maintained by **Nitesh Kumar Singh** ([nkscoder](https://github.com/nkscoder)) · [nkscoder.in](https://nkscoder.in)

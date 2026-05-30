@@ -97,13 +97,13 @@ python -m build
 
 This creates:
 
-- `dist/nkscoder_indian_banks-1.0.0.tar.gz` (source)
-- `dist/nkscoder_indian_banks-1.0.0-py3-none-any.whl` (wheel)
+- `dist/nkscoder_indian_banks-1.0.1.tar.gz` (source)
+- `dist/nkscoder_indian_banks-1.0.1-py3-none-any.whl` (wheel)
 
 Test the wheel locally (optional):
 
 ```bash
-pip install dist/nkscoder_indian_banks-1.0.0-py3-none-any.whl
+pip install dist/nkscoder_indian_banks-1.0.1-py3-none-any.whl
 python -c "import indian_banks; print(indian_banks.__version__)"
 ```
 

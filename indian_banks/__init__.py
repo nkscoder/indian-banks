@@ -1,6 +1,10 @@
-"""Indian Banks — logos and structured metadata for RBI-recognized banks."""
+"""Indian Banks — logos and structured metadata for RBI-recognized banks.
 
-__version__ = "1.0.0"
+Author: Nitesh Kumar Singh — https://github.com/nkscoder
+"""
+
+__version__ = "1.0.1"
+__author__ = "Nitesh Kumar Singh"
 
 from indian_banks.banks import (
     Bank,
