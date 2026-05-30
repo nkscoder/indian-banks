@@ -1,0 +1,62 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nkscoder-indian-banks"
+version = "1.0.0"
+description = "Open-source Indian bank logos and structured metadata — IFSC prefixes, USSD codes, websites, and RBI bank types."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [
+    { name = "nkscoder.in", email = "contact@nkscoder.in" },
+]
+maintainers = [
+    { name = "nkscoder.in", email = "contact@nkscoder.in" },
+]
+keywords = [
+    "indian-banks",
+    "bank-logos",
+    "ifsc",
+    "rbi",
+    "fintech",
+    "upi",
+    "bank-data",
+    "india",
+    "nkscoder",
+    "open-source",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Office/Business :: Financial",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/nkscoder/indian-banks"
+Documentation = "https://github.com/nkscoder/indian-banks#readme"
+Repository = "https://github.com/nkscoder/indian-banks"
+"Bug Tracker" = "https://github.com/nkscoder/indian-banks/issues"
+"Organization" = "https://nkscoder.in"
+
+[project.optional-dependencies]
+dev = ["build", "twine", "pytest"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["indian_banks*"]
+
+[tool.setuptools.package-data]
+indian_banks = [
+    "data/*.json",
+    "logos/*",
+]

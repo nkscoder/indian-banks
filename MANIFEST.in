@@ -1,0 +1,10 @@
+include LICENSE
+include README.md
+include pyproject.toml
+include PUBLISHING.md
+recursive-include docs *.md
+recursive-include indian_banks/data *.json
+recursive-include indian_banks/logos *
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude .DS_Store

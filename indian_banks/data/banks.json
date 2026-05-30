@@ -1,0 +1,1702 @@
+[
+  {
+    "name": "ABHY",
+    "slug": "abhy",
+    "ifsc_prefix": "ABHY",
+    "logo": "ABHY.png",
+    "symbol": "ABHY.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "ABN AMRO",
+    "slug": "abn-amro",
+    "ifsc_prefix": null,
+    "logo": "ABN AMRO.png",
+    "symbol": "ABN AMRO.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "AMCB",
+    "slug": "amcb",
+    "ifsc_prefix": "AMCB",
+    "logo": "AMCB.png",
+    "symbol": "AMCB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "ANZB",
+    "slug": "anzb",
+    "ifsc_prefix": "ANZB",
+    "logo": "ANZB.jpeg",
+    "symbol": "ANZB.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "APGB",
+    "slug": "apgb",
+    "ifsc_prefix": "APGB",
+    "logo": "APGB.jpeg",
+    "symbol": "APGB.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "slug": "aubl",
+    "ifsc_prefix": "AUBL",
+    "logo": "AU Small Finance Bank.png",
+    "symbol": "AU Small Finance Bank.png",
+    "bank_type": "small_finance",
+    "website": "https://www.aubank.in",
+    "ussd": "*99#"
+  },
+  {
+    "name": "AUCB1",
+    "slug": "aucb1",
+    "ifsc_prefix": null,
+    "logo": "AUCB1.png",
+    "symbol": "AUCB1.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Abu Dhabi Commercial Bank",
+    "slug": "abu-dhabi-commercial-bank",
+    "ifsc_prefix": null,
+    "logo": "Abu Dhabi Commercial Bank.png",
+    "symbol": "Abu Dhabi Commercial Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "American Express",
+    "slug": "american-express",
+    "ifsc_prefix": null,
+    "logo": "American Express.png",
+    "symbol": "American Express.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Australia and New Zealand Banking Group",
+    "slug": "australia-and-new-zealand-banking-group",
+    "ifsc_prefix": null,
+    "logo": "Australia and New Zealand Banking Group.png",
+    "symbol": "Australia and New Zealand Banking Group.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Axis bank",
+    "slug": "axis",
+    "ifsc_prefix": "UTIB",
+    "logo": "Axis bank.png",
+    "symbol": "Axis bank.png",
+    "bank_type": "private_sector",
+    "website": "https://www.axisbank.com",
+    "ussd": "*99#"
+  },
+  {
+    "name": "BACB",
+    "slug": "bacb",
+    "ifsc_prefix": "BACB",
+    "logo": "BACB.jpg",
+    "symbol": "BACB.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "BACB",
+    "slug": "bacb-2",
+    "ifsc_prefix": "BACB",
+    "logo": "BACB.png",
+    "symbol": "BACB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "BCBM",
+    "slug": "bcbm",
+    "ifsc_prefix": "BCBM",
+    "logo": "BCBM.jpeg",
+    "symbol": "BCBM.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "BCHN",
+    "slug": "bchn",
+    "ifsc_prefix": "BCHN",
+    "logo": "BCHN.png",
+    "symbol": "BCHN.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "BNP Paribas",
+    "slug": "bnp-paribas",
+    "ifsc_prefix": null,
+    "logo": "BNP Paribas.png",
+    "symbol": "BNP Paribas.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "BNPA",
+    "slug": "bnpa",
+    "ifsc_prefix": "BNPA",
+    "logo": "BNPA.jpg",
+    "symbol": "BNPA.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "BNSB",
+    "slug": "bnsb",
+    "ifsc_prefix": "BNSB",
+    "logo": "BNSB.png",
+    "symbol": "BNSB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "BOTM",
+    "slug": "botm",
+    "ifsc_prefix": "BOTM",
+    "logo": "BOTM.png",
+    "symbol": "BOTM.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "BUCB",
+    "slug": "bucb",
+    "ifsc_prefix": "BUCB",
+    "logo": "BUCB.png",
+    "symbol": "BUCB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Bandhan Bank",
+    "slug": "bdbl",
+    "ifsc_prefix": "BDBL",
+    "logo": "Bandhan Bank.png",
+    "symbol": "Bandhan Bank.png",
+    "bank_type": "private_sector",
+    "website": "https://www.bandhanbank.com",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Bank Name82",
+    "slug": "bank-name82",
+    "ifsc_prefix": null,
+    "logo": "Bank Name82.png",
+    "symbol": "Bank Name82.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Bank of America",
+    "slug": "bank-of-america",
+    "ifsc_prefix": null,
+    "logo": "Bank of America.png",
+    "symbol": "Bank of America.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Bank of Bahrain and Kuwait",
+    "slug": "bank-of-bahrain-and-kuwait",
+    "ifsc_prefix": null,
+    "logo": "Bank of Bahrain and Kuwait.png",
+    "symbol": "Bank of Bahrain and Kuwait.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Bank of Baroda",
+    "slug": "barb",
+    "ifsc_prefix": "BARB",
+    "logo": "Bank of Baroda.png",
+    "symbol": "Bank of Baroda.png",
+    "bank_type": "public_sector",
+    "website": "https://www.bankofbaroda.in",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Bank of Ceylon",
+    "slug": "bank-of-ceylon",
+    "ifsc_prefix": null,
+    "logo": "Bank of Ceylon.png",
+    "symbol": "Bank of Ceylon.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Bank of India",
+    "slug": "bkid",
+    "ifsc_prefix": "BKID",
+    "logo": "Bank of India.png",
+    "symbol": "Bank of India.png",
+    "bank_type": "public_sector",
+    "website": "https://bankofindia.co.in",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Bank of Maharastra",
+    "slug": "mahb",
+    "ifsc_prefix": "MAHB",
+    "logo": "Bank of Maharastra.png",
+    "symbol": "Bank of Maharastra.png",
+    "bank_type": "public_sector",
+    "website": "https://bankofmaharashtra.in",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Barclays Bank",
+    "slug": "barclays-bank",
+    "ifsc_prefix": null,
+    "logo": "Barclays Bank.png",
+    "symbol": "Barclays Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "CCBL",
+    "slug": "ccbl",
+    "ifsc_prefix": "CCBL",
+    "logo": "CCBL.jpeg",
+    "symbol": "CCBL.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "CCBL1",
+    "slug": "ccbl1",
+    "ifsc_prefix": null,
+    "logo": "CCBL1.png",
+    "symbol": "CCBL1.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "CCIL",
+    "slug": "ccil",
+    "ifsc_prefix": "CCIL",
+    "logo": "CCIL.jpeg",
+    "symbol": "CCIL.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "CHAS",
+    "slug": "chas",
+    "ifsc_prefix": "CHAS",
+    "logo": "CHAS.png",
+    "symbol": "CHAS.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "COAS",
+    "slug": "coas",
+    "ifsc_prefix": "COAS",
+    "logo": "COAS.jpeg",
+    "symbol": "COAS.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "COSB",
+    "slug": "cosb",
+    "ifsc_prefix": "COSB",
+    "logo": "COSB.jpg",
+    "symbol": "COSB.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "CRES",
+    "slug": "cres",
+    "ifsc_prefix": "CRES",
+    "logo": "CRES.png",
+    "symbol": "CRES.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "CRGB",
+    "slug": "crgb",
+    "ifsc_prefix": "CRGB",
+    "logo": "CRGB.jpg",
+    "symbol": "CRGB.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "CRGB1",
+    "slug": "crgb1",
+    "ifsc_prefix": null,
+    "logo": "CRGB1.png",
+    "symbol": "CRGB1.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "CSB Bank",
+    "slug": "csbk",
+    "ifsc_prefix": "CSBK",
+    "logo": "CSB Bank.png",
+    "symbol": "CSB Bank.png",
+    "bank_type": "private_sector",
+    "website": "https://www.csb.co.in",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Canara Bank",
+    "slug": "cnrb",
+    "ifsc_prefix": "CNRB",
+    "logo": "Canara Bank.png",
+    "symbol": "Canara Bank.png",
+    "bank_type": "public_sector",
+    "website": "https://canarabank.com",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Central Bank of India",
+    "slug": "cbin",
+    "ifsc_prefix": "CBIN",
+    "logo": "Central Bank of India.png",
+    "symbol": "Central Bank of India.png",
+    "bank_type": "public_sector",
+    "website": "https://www.centralbankofindia.co.in",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Citi Bank",
+    "slug": "citi-bank",
+    "ifsc_prefix": null,
+    "logo": "Citi Bank.png",
+    "symbol": "Citi Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "City Union Bank",
+    "slug": "city-union-bank",
+    "ifsc_prefix": null,
+    "logo": "City Union Bank.png",
+    "symbol": "City Union Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Credit Suisse",
+    "slug": "credit-suisse",
+    "ifsc_prefix": null,
+    "logo": "Credit Suisse.png",
+    "symbol": "Credit Suisse.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Crédit Agricole Corporate and Investment Bank",
+    "slug": "cr-dit-agricole-corporate-and-investment-bank",
+    "ifsc_prefix": null,
+    "logo": "Crédit Agricole Corporate and Investment Bank.png",
+    "symbol": "Crédit Agricole Corporate and Investment Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "DBS Bank",
+    "slug": "dbss",
+    "ifsc_prefix": "DBSS",
+    "logo": "DBS Bank.png",
+    "symbol": "DBS Bank.png",
+    "bank_type": "foreign",
+    "website": "https://www.dbs.com/in",
+    "ussd": null
+  },
+  {
+    "name": "DCB Bank",
+    "slug": "dcb-bank",
+    "ifsc_prefix": null,
+    "logo": "DCB Bank.png",
+    "symbol": "DCB Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "DCUB",
+    "slug": "dcub",
+    "ifsc_prefix": "DCUB",
+    "logo": "DCUB.png",
+    "symbol": "DCUB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "DICG",
+    "slug": "dicg",
+    "ifsc_prefix": "DICG",
+    "logo": "DICG.png",
+    "symbol": "DICG.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "DICG1",
+    "slug": "dicg1",
+    "ifsc_prefix": null,
+    "logo": "DICG1.jpeg",
+    "symbol": "DICG1.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "DLSC",
+    "slug": "dlsc",
+    "ifsc_prefix": "DLSC",
+    "logo": "DLSC.avif",
+    "symbol": "DLSC.avif",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "DNSB",
+    "slug": "dnsb",
+    "ifsc_prefix": "DNSB",
+    "logo": "DNSB.jpeg",
+    "symbol": "DNSB.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "DNSB1",
+    "slug": "dnsb1",
+    "ifsc_prefix": null,
+    "logo": "DNSB1.png",
+    "symbol": "DNSB1.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Deutsche Bank",
+    "slug": "deutsche-bank",
+    "ifsc_prefix": null,
+    "logo": "Deutsche Bank.png",
+    "symbol": "Deutsche Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Dhanlaxmi Bank",
+    "slug": "dhanlaxmi-bank",
+    "ifsc_prefix": null,
+    "logo": "Dhanlaxmi Bank.png",
+    "symbol": "Dhanlaxmi Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Doha Bank",
+    "slug": "doha-bank",
+    "ifsc_prefix": null,
+    "logo": "Doha Bank.png",
+    "symbol": "Doha Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "EBIL",
+    "slug": "ebil",
+    "ifsc_prefix": "EBIL",
+    "logo": "EBIL.png",
+    "symbol": "EBIL.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "EBIL1",
+    "slug": "ebil1",
+    "ifsc_prefix": null,
+    "logo": "EBIL1.jpg",
+    "symbol": "EBIL1.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "EIBI",
+    "slug": "eibi",
+    "ifsc_prefix": "EIBI",
+    "logo": "EIBI.png",
+    "symbol": "EIBI.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "EIBI2",
+    "slug": "eibi2",
+    "ifsc_prefix": null,
+    "logo": "EIBI2.jpg",
+    "symbol": "EIBI2.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "ESAF Small Finance Bank Ltd",
+    "slug": "esfb",
+    "ifsc_prefix": "ESFB",
+    "logo": "ESAF Small Finance Bank Ltd.png",
+    "symbol": "ESAF Small Finance Bank Ltd.png",
+    "bank_type": "small_finance",
+    "website": "https://www.esafbank.com",
+    "ussd": "*99#"
+  },
+  {
+    "name": "EurkxxPYLqxsVo075myW9qZ8XbHLaMDb1rgvhpc1",
+    "slug": "eurkxxpylqxsvo075myw9qz8xbhlamdb1rgvhpc1",
+    "ifsc_prefix": null,
+    "logo": "EurkxxPYLqxsVo075myW9qZ8XbHLaMDb1rgvhpc1.png",
+    "symbol": "EurkxxPYLqxsVo075myW9qZ8XbHLaMDb1rgvhpc1.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "FINO Payments Bank",
+    "slug": "fino-payments-bank",
+    "ifsc_prefix": null,
+    "logo": "FINO Payments Bank.png",
+    "symbol": "FINO Payments Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "FSFB",
+    "slug": "fsfb",
+    "ifsc_prefix": "FSFB",
+    "logo": "FSFB.jpg",
+    "symbol": "FSFB.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "FirstRand Bank",
+    "slug": "firstrand-bank",
+    "ifsc_prefix": null,
+    "logo": "FirstRand Bank.png",
+    "symbol": "FirstRand Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "GBCB",
+    "slug": "gbcb",
+    "ifsc_prefix": "GBCB",
+    "logo": "GBCB.png",
+    "symbol": "GBCB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "GDCB",
+    "slug": "gdcb",
+    "ifsc_prefix": "GDCB",
+    "logo": "GDCB.jpg",
+    "symbol": "GDCB.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "GSCB",
+    "slug": "gscb",
+    "ifsc_prefix": "GSCB",
+    "logo": "GSCB.jpg",
+    "symbol": "GSCB.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "GSSB",
+    "slug": "gssb",
+    "ifsc_prefix": "GSSB",
+    "logo": "GSSB.png",
+    "symbol": "GSSB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Gif-logo",
+    "slug": "gif-logo",
+    "ifsc_prefix": null,
+    "logo": "Gif-logo.gif",
+    "symbol": "Gif-logo.gif",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "HARC",
+    "slug": "harc",
+    "ifsc_prefix": "HARC",
+    "logo": "HARC.png",
+    "symbol": "HARC.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "HCBL",
+    "slug": "hcbl",
+    "ifsc_prefix": "HCBL",
+    "logo": "HCBL.avif",
+    "symbol": "HCBL.avif",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "HDFC Bank",
+    "slug": "hdfc",
+    "ifsc_prefix": "HDFC",
+    "logo": "HDFC Bank.png",
+    "symbol": "HDFC Bank.png",
+    "bank_type": "private_sector",
+    "website": "https://www.hdfcbank.com",
+    "ussd": "*99#"
+  },
+  {
+    "name": "HSBC Bank",
+    "slug": "hsbc-bank",
+    "ifsc_prefix": null,
+    "logo": "HSBC Bank.png",
+    "symbol": "HSBC Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "IBKO",
+    "slug": "ibko",
+    "ifsc_prefix": "IBKO",
+    "logo": "IBKO.png",
+    "symbol": "IBKO.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "ICBK",
+    "slug": "icbk",
+    "ifsc_prefix": "ICBK",
+    "logo": "ICBK.jpg",
+    "symbol": "ICBK.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "ICICI Bank",
+    "slug": "icic",
+    "ifsc_prefix": "ICIC",
+    "logo": "ICICI Bank.png",
+    "symbol": "ICICI Bank.png",
+    "bank_type": "private_sector",
+    "website": "https://www.icicibank.com",
+    "ussd": "*99#"
+  },
+  {
+    "name": "IDBI Bank",
+    "slug": "ibkl",
+    "ifsc_prefix": "IBKL",
+    "logo": "IDBI Bank.png",
+    "symbol": "IDBI Bank.png",
+    "bank_type": "public_sector",
+    "website": "https://www.idbi.com",
+    "ussd": "*99#"
+  },
+  {
+    "name": "IDFC Bank",
+    "slug": "idfc-bank",
+    "ifsc_prefix": null,
+    "logo": "IDFC Bank.png",
+    "symbol": "IDFC Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "India Post Payments Bank",
+    "slug": "ippb",
+    "ifsc_prefix": "IPOS",
+    "logo": "India Post Payments Bank.png",
+    "symbol": "India Post Payments Bank.png",
+    "bank_type": "payments",
+    "website": "https://www.indiapost.gov.in",
+    "ussd": null
+  },
+  {
+    "name": "Indian Bank",
+    "slug": "idib",
+    "ifsc_prefix": "IDIB",
+    "logo": "Indian Bank.png",
+    "symbol": "Indian Bank.png",
+    "bank_type": "public_sector",
+    "website": "https://www.indianbank.in",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "slug": "ioba",
+    "ifsc_prefix": "IOBA",
+    "logo": "Indian Overseas Bank.png",
+    "symbol": "Indian Overseas Bank.png",
+    "bank_type": "public_sector",
+    "website": "https://www.iob.in",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Induslnd Bank",
+    "slug": "indb",
+    "ifsc_prefix": "INDB",
+    "logo": "Induslnd Bank.png",
+    "symbol": "Induslnd Bank.png",
+    "bank_type": "private_sector",
+    "website": "https://www.indusind.com",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Industrial & Commercial Bank of China",
+    "slug": "industrial-commercial-bank-of-china",
+    "ifsc_prefix": null,
+    "logo": "Industrial & Commercial Bank of China.png",
+    "symbol": "Industrial & Commercial Bank of China.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Industrial Bank of Korea",
+    "slug": "industrial-bank-of-korea",
+    "ifsc_prefix": null,
+    "logo": "Industrial Bank of Korea.png",
+    "symbol": "Industrial Bank of Korea.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Industrial_Bank_of_Korea_Logo.svg",
+    "slug": "industrial-bank-of-korea-logo-svg",
+    "ifsc_prefix": null,
+    "logo": "Industrial_Bank_of_Korea_Logo.svg.png",
+    "symbol": "Industrial_Bank_of_Korea_Logo.svg.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "JASB",
+    "slug": "jasb",
+    "ifsc_prefix": "JASB",
+    "logo": "JASB.jpeg",
+    "symbol": "JASB.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "JPCB",
+    "slug": "jpcb",
+    "ifsc_prefix": "JPCB",
+    "logo": "JPCB.avif",
+    "symbol": "JPCB.avif",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "JPMorgan Chase",
+    "slug": "jpmorgan-chase",
+    "ifsc_prefix": null,
+    "logo": "JPMorgan Chase.png",
+    "symbol": "JPMorgan Chase.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "JSBP",
+    "slug": "jsbp",
+    "ifsc_prefix": "JSBP",
+    "logo": "JSBP.png",
+    "symbol": "JSBP.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Jammu & Kashmir Bank",
+    "slug": "jaka",
+    "ifsc_prefix": "JAKA",
+    "logo": "Jammu & Kashmir Bank.png",
+    "symbol": "Jammu & Kashmir Bank.png",
+    "bank_type": "private_sector",
+    "website": "https://www.jkbank.com",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Jio Payments Bank",
+    "slug": "jio-payments-bank",
+    "ifsc_prefix": null,
+    "logo": "Jio Payments Bank.png",
+    "symbol": "Jio Payments Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KACE",
+    "slug": "kace",
+    "ifsc_prefix": "KACE",
+    "logo": "KACE.avif",
+    "symbol": "KACE.avif",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KANG",
+    "slug": "kang",
+    "ifsc_prefix": "KANG",
+    "logo": "KANG.jpg",
+    "symbol": "KANG.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KBKB",
+    "slug": "kbkb",
+    "ifsc_prefix": "KBKB",
+    "logo": "KBKB.png",
+    "symbol": "KBKB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KCCB",
+    "slug": "kccb",
+    "ifsc_prefix": "KCCB",
+    "logo": "KCCB.jpg",
+    "symbol": "KCCB.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KCCB1",
+    "slug": "kccb1",
+    "ifsc_prefix": null,
+    "logo": "KCCB1.avif",
+    "symbol": "KCCB1.avif",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KEB Hana Bank",
+    "slug": "keb-hana-bank",
+    "ifsc_prefix": null,
+    "logo": "KEB Hana Bank.png",
+    "symbol": "KEB Hana Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KJSB",
+    "slug": "kjsb",
+    "ifsc_prefix": "KJSB",
+    "logo": "KJSB.jpeg",
+    "symbol": "KJSB.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KNSB",
+    "slug": "knsb",
+    "ifsc_prefix": "KNSB",
+    "logo": "KNSB.avif",
+    "symbol": "KNSB.avif",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KOEX",
+    "slug": "koex",
+    "ifsc_prefix": "KOEX",
+    "logo": "KOEX.jpeg",
+    "symbol": "KOEX.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KOEX1",
+    "slug": "koex1",
+    "ifsc_prefix": null,
+    "logo": "KOEX1.jpeg",
+    "symbol": "KOEX1.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KOLH",
+    "slug": "kolh",
+    "ifsc_prefix": "KOLH",
+    "logo": "KOLH.png",
+    "symbol": "KOLH.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KSBK",
+    "slug": "ksbk",
+    "ifsc_prefix": "KSBK",
+    "logo": "KSBK.webp",
+    "symbol": "KSBK.webp",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KSCB",
+    "slug": "kscb",
+    "ifsc_prefix": "KSCB",
+    "logo": "KSCB.jpg",
+    "symbol": "KSCB.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KUCB",
+    "slug": "kucb",
+    "ifsc_prefix": "KUCB",
+    "logo": "KUCB.webp",
+    "symbol": "KUCB.webp",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "KVGB",
+    "slug": "kvgb",
+    "ifsc_prefix": "KVGB",
+    "logo": "KVGB.png",
+    "symbol": "KVGB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Karnataka Bank",
+    "slug": "karnataka-bank",
+    "ifsc_prefix": null,
+    "logo": "Karnataka Bank.png",
+    "symbol": "Karnataka Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Kookmin Bank",
+    "slug": "kookmin-bank",
+    "ifsc_prefix": null,
+    "logo": "Kookmin Bank.png",
+    "symbol": "Kookmin Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "slug": "kkbk",
+    "ifsc_prefix": "KKBK",
+    "logo": "Kotak Mahindra Bank.png",
+    "symbol": "Kotak Mahindra Bank.png",
+    "bank_type": "private_sector",
+    "website": "https://www.kotak.com",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Krung Thai Bank",
+    "slug": "krung-thai-bank",
+    "ifsc_prefix": null,
+    "logo": "Krung Thai Bank.png",
+    "symbol": "Krung Thai Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "MAHG",
+    "slug": "mahg",
+    "ifsc_prefix": "MAHG",
+    "logo": "MAHG.png",
+    "symbol": "MAHG.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "MCAB",
+    "slug": "mcab",
+    "ifsc_prefix": "MCAB",
+    "logo": "MCAB.png",
+    "symbol": "MCAB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "MCBL",
+    "slug": "mcbl",
+    "ifsc_prefix": "MCBL",
+    "logo": "MCBL.png",
+    "symbol": "MCBL.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "MCBL1",
+    "slug": "mcbl1",
+    "ifsc_prefix": null,
+    "logo": "MCBL1.png",
+    "symbol": "MCBL1.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "MHCB",
+    "slug": "mhcb",
+    "ifsc_prefix": "MHCB",
+    "logo": "MHCB.png",
+    "symbol": "MHCB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "MSBL",
+    "slug": "msbl",
+    "ifsc_prefix": "MSBL",
+    "logo": "MSBL.jpeg",
+    "symbol": "MSBL.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "MSCI",
+    "slug": "msci",
+    "ifsc_prefix": "MSCI",
+    "logo": "MSCI.png",
+    "symbol": "MSCI.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "MUBL",
+    "slug": "mubl",
+    "ifsc_prefix": "MUBL",
+    "logo": "MUBL.avif",
+    "symbol": "MUBL.avif",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "MUFG Bank",
+    "slug": "mufg-bank",
+    "ifsc_prefix": null,
+    "logo": "MUFG Bank.png",
+    "symbol": "MUFG Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Mizuho Corporate Bank",
+    "slug": "mizuho-corporate-bank",
+    "ifsc_prefix": null,
+    "logo": "Mizuho Corporate Bank.png",
+    "symbol": "Mizuho Corporate Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "NMCB",
+    "slug": "nmcb",
+    "ifsc_prefix": "NMCB",
+    "logo": "NMCB.png",
+    "symbol": "NMCB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "NTBL",
+    "slug": "ntbl",
+    "ifsc_prefix": "NTBL",
+    "logo": "NTBL.png",
+    "symbol": "NTBL.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "NVNM",
+    "slug": "nvnm",
+    "ifsc_prefix": "NVNM",
+    "logo": "NVNM.png",
+    "symbol": "NVNM.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Nainital Bank",
+    "slug": "nainital-bank",
+    "ifsc_prefix": null,
+    "logo": "Nainital Bank.png",
+    "symbol": "Nainital Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "NatWest Bank",
+    "slug": "natwest-bank",
+    "ifsc_prefix": null,
+    "logo": "NatWest Bank.png",
+    "symbol": "NatWest Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Paytm Payments Bank",
+    "slug": "paytm",
+    "ifsc_prefix": "PYTM",
+    "logo": "Paytm Payments Bank.png",
+    "symbol": "Paytm Payments Bank.png",
+    "bank_type": "payments",
+    "website": "https://www.paytmbank.com",
+    "ussd": null
+  },
+  {
+    "name": "Punjab & Sind Bank",
+    "slug": "psib",
+    "ifsc_prefix": "PSIB",
+    "logo": "Punjab & Sind Bank.png",
+    "symbol": "Punjab & Sind Bank.png",
+    "bank_type": "public_sector",
+    "website": "https://punjabandsindbank.co.in",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Punjab National Bank",
+    "slug": "punb",
+    "ifsc_prefix": "PUNB",
+    "logo": "Punjab National Bank.png",
+    "symbol": "Punjab National Bank.png",
+    "bank_type": "public_sector",
+    "website": "https://www.pnbindia.in",
+    "ussd": "*99#"
+  },
+  {
+    "name": "Qatar National Bank",
+    "slug": "qatar-national-bank",
+    "ifsc_prefix": null,
+    "logo": "Qatar National Bank.png",
+    "symbol": "Qatar National Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "RBL Bank",
+    "slug": "ratn",
+    "ifsc_prefix": "RATN",
+    "logo": "RBL Bank.png",
+    "symbol": "RBL Bank.png",
+    "bank_type": "private_sector",
+    "website": "https://www.rblbank.com",
+    "ussd": "*99#"
+  },
+  {
+    "name": "RSCB",
+    "slug": "rscb",
+    "ifsc_prefix": "RSCB",
+    "logo": "RSCB.png",
+    "symbol": "RSCB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "SDCB",
+    "slug": "sdcb",
+    "ifsc_prefix": "SDCB",
+    "logo": "SDCB.png",
+    "symbol": "SDCB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "SPCB",
+    "slug": "spcb",
+    "ifsc_prefix": "SPCB",
+    "logo": "SPCB.jpeg",
+    "symbol": "SPCB.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Sberbank",
+    "slug": "sberbank",
+    "ifsc_prefix": null,
+    "logo": "Sberbank.png",
+    "symbol": "Sberbank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Scotia Bank",
+    "slug": "scotia-bank",
+    "ifsc_prefix": null,
+    "logo": "Scotia Bank.png",
+    "symbol": "Scotia Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Shinhan Bank",
+    "slug": "shinhan-bank",
+    "ifsc_prefix": null,
+    "logo": "Shinhan Bank.png",
+    "symbol": "Shinhan Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Société Générale",
+    "slug": "soci-t-g-n-rale",
+    "ifsc_prefix": null,
+    "logo": "Société Générale.png",
+    "symbol": "Société Générale.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Standard Chartered Bank",
+    "slug": "standard-chartered-bank",
+    "ifsc_prefix": null,
+    "logo": "Standard Chartered Bank.png",
+    "symbol": "Standard Chartered Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "State Bank of India",
+    "slug": "sbin",
+    "ifsc_prefix": "SBIN",
+    "logo": "State Bank of India.png",
+    "symbol": "State Bank of India.png",
+    "bank_type": "public_sector",
+    "website": "https://sbi.co.in",
+    "ussd": "*999#"
+  },
+  {
+    "name": "Sumitomo Mitsui Banking Corporation",
+    "slug": "sumitomo-mitsui-banking-corporation",
+    "ifsc_prefix": null,
+    "logo": "Sumitomo Mitsui Banking Corporation.png",
+    "symbol": "Sumitomo Mitsui Banking Corporation.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "TDCB",
+    "slug": "tdcb",
+    "ifsc_prefix": "TDCB",
+    "logo": "TDCB.png",
+    "symbol": "TDCB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "TGMB",
+    "slug": "tgmb",
+    "ifsc_prefix": "TGMB",
+    "logo": "TGMB.png",
+    "symbol": "TGMB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "TNSC",
+    "slug": "tnsc",
+    "ifsc_prefix": "TNSC",
+    "logo": "TNSC.jpeg",
+    "symbol": "TNSC.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "TPSC",
+    "slug": "tpsc",
+    "ifsc_prefix": "TPSC",
+    "logo": "TPSC.jpeg",
+    "symbol": "TPSC.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Tamilnad Mercantile Bank",
+    "slug": "tamilnad-mercantile-bank",
+    "ifsc_prefix": null,
+    "logo": "Tamilnad Mercantile Bank.png",
+    "symbol": "Tamilnad Mercantile Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "UCLB",
+    "slug": "uclb",
+    "ifsc_prefix": "UCLB",
+    "logo": "UCLB.png",
+    "symbol": "UCLB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "UCO Bank",
+    "slug": "uco-bank",
+    "ifsc_prefix": null,
+    "logo": "UCO Bank.png",
+    "symbol": "UCO Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "UJVN",
+    "slug": "ujvn",
+    "ifsc_prefix": "UJVN",
+    "logo": "UJVN.jpeg",
+    "symbol": "UJVN.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "UPCB",
+    "slug": "upcb",
+    "ifsc_prefix": "UPCB",
+    "logo": "UPCB.jpeg",
+    "symbol": "UPCB.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "URBN",
+    "slug": "urbn",
+    "ifsc_prefix": "URBN",
+    "logo": "URBN.png",
+    "symbol": "URBN.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "USCB",
+    "slug": "uscb",
+    "ifsc_prefix": "USCB",
+    "logo": "USCB.png",
+    "symbol": "USCB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "UUCB",
+    "slug": "uucb",
+    "ifsc_prefix": "UUCB",
+    "logo": "UUCB.png",
+    "symbol": "UUCB.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Ujjivan Small Finance Bank",
+    "slug": "ujjivan-small-finance-bank",
+    "ifsc_prefix": null,
+    "logo": "Ujjivan Small Finance Bank.png",
+    "symbol": "Ujjivan Small Finance Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Union Bank",
+    "slug": "ubin",
+    "ifsc_prefix": "UBIN",
+    "logo": "Union Bank.png",
+    "symbol": "Union Bank.png",
+    "bank_type": "public_sector",
+    "website": "https://www.unionbankofindia.co.in",
+    "ussd": "*99#"
+  },
+  {
+    "name": "United Overseas Bank",
+    "slug": "united-overseas-bank",
+    "ifsc_prefix": null,
+    "logo": "United Overseas Bank.png",
+    "symbol": "United Overseas Bank.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "VARA",
+    "slug": "vara",
+    "ifsc_prefix": "VARA",
+    "logo": "VARA.jpeg",
+    "symbol": "VARA.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "VARA",
+    "slug": "vara-2",
+    "ifsc_prefix": "VARA",
+    "logo": "VARA.png",
+    "symbol": "VARA.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "VASJ",
+    "slug": "vasj",
+    "ifsc_prefix": "VASJ",
+    "logo": "VASJ.png",
+    "symbol": "VASJ.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "VSBA logo",
+    "slug": "vsba-logo",
+    "ifsc_prefix": null,
+    "logo": "VSBA logo.jpeg",
+    "symbol": "VSBA logo.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "VSBL",
+    "slug": "vsbl",
+    "ifsc_prefix": "VSBL",
+    "logo": "VSBL.jpeg",
+    "symbol": "VSBL.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "VTBJ",
+    "slug": "vtbj",
+    "ifsc_prefix": "VTBJ",
+    "logo": "VTBJ.png",
+    "symbol": "VTBJ.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "VVSB logo",
+    "slug": "vvsb-logo",
+    "ifsc_prefix": null,
+    "logo": "VVSB logo.jpeg",
+    "symbol": "VVSB logo.jpeg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "WBSC",
+    "slug": "wbsc",
+    "ifsc_prefix": "WBSC",
+    "logo": "WBSC.webp",
+    "symbol": "WBSC.webp",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Westpac",
+    "slug": "westpac",
+    "ifsc_prefix": null,
+    "logo": "Westpac.png",
+    "symbol": "Westpac.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "Yes Bank",
+    "slug": "yesb",
+    "ifsc_prefix": "YESB",
+    "logo": "Yes Bank.png",
+    "symbol": "Yes Bank.png",
+    "bank_type": "private_sector",
+    "website": "https://www.yesbank.in",
+    "ussd": "*99#"
+  },
+  {
+    "name": "ZCBL",
+    "slug": "zcbl",
+    "ifsc_prefix": "ZCBL",
+    "logo": "ZCBL.jpg",
+    "symbol": "ZCBL.jpg",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "ZSBL",
+    "slug": "zsbl",
+    "ifsc_prefix": "ZSBL",
+    "logo": "ZSBL.png",
+    "symbol": "ZSBL.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "idevanLXIF_1758263251134",
+    "slug": "idevanlxif-1758263251134",
+    "ifsc_prefix": null,
+    "logo": "idevanLXIF_1758263251134.png",
+    "symbol": "idevanLXIF_1758263251134.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  },
+  {
+    "name": "woori bank.png",
+    "slug": "woori-bank-png",
+    "ifsc_prefix": null,
+    "logo": "woori bank.png.png",
+    "symbol": "woori bank.png.png",
+    "bank_type": null,
+    "website": null,
+    "ussd": null
+  }
+]
