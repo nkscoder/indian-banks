@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nkscoder-indian-banks"
-version = "1.0.1"
+version = "1.0.2"
 description = "Indian bank logos and structured metadata by Nitesh Kumar Singh (nkscoder) — IFSC prefixes, USSD codes, websites, and RBI bank types."
 readme = "README.md"
 license = "MIT"
@@ -47,7 +47,10 @@ Homepage = "https://github.com/nkscoder/indian-banks"
 Documentation = "https://github.com/nkscoder/indian-banks#readme"
 Repository = "https://github.com/nkscoder/indian-banks"
 "Bug Tracker" = "https://github.com/nkscoder/indian-banks/issues"
-"Organization" = "https://nkscoder.in"
+"PyPI Profile" = "https://pypi.org/user/nkscoder/"
+"Author Website" = "https://nkscoder.in"
+"Author GitHub" = "https://github.com/nkscoder"
+"LinkedIn" = "https://www.linkedin.com/in/nitesh-kumar-singh-897437a2/"
 
 [project.optional-dependencies]
 dev = ["build", "twine", "pytest"]
