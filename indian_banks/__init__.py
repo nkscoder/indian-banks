@@ -3,7 +3,7 @@
 Author: Nitesh Kumar Singh — https://github.com/nkscoder
 """
 
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 __author__ = "Nitesh Kumar Singh"
 
 from indian_banks.banks import (
